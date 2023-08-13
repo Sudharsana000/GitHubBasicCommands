@@ -1,1 +1,9 @@
 Hello!
+//   local
+git init                      --> initiate git
+git add filename.txt          --> add the file to staging area
+git commit -m "Complete name" --> to commit changes
+git checkout  filename        --> cancel changes
+
+git status  -->  file name and its status
+git log     -->  shows files in the repository
